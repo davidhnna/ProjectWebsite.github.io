@@ -1,0 +1,29 @@
+.interest-section {
+  width: 100%;
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.interest-item {
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.interest-item img {
+  float: left;
+  width: 200px;
+  margin-right: 20px;
+}
+
+.interest-item h3 {
+  margin-top: 0;
+}
+
+.interest-item p {
+  margin-top: 5px;
+}
+
+body {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
